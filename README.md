@@ -50,6 +50,7 @@ just certified courses.
 ## Coursera
 - [Version Control With Git](https://www.coursera.org/account/accomplishments/verify/UPCHWGAGX66D)
 - [Competitive Programmer's Core Skills](https://www.coursera.org/account/accomplishments/verify/WPS6KUZMT6YL)
+- [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5)
 
 ## Udemy 
 - [3-Minute French Course 1](https://www.udemy.com/certificate/UC-1KECT4EP/)
