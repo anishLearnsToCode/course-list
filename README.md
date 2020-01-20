@@ -44,8 +44,15 @@ just certified courses.
 ### Semester 5
 - Stochastic Process
 - Operating Systems
-- Digital Image Processing
+- Computer Vision
 - Technical Communication 
+
+### Semester 6
+- Database Management System
+- Theory of Computation
+- Financial Engineering
+- Computer Networks
+- Professional Ethics and Human Values
 
 ## Coursera
 - [Version Control With Git](https://www.coursera.org/account/accomplishments/verify/UPCHWGAGX66D)
