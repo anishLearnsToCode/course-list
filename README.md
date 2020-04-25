@@ -8,7 +8,7 @@ It must also be mentioned that official courses are just one way of learning so 
 and can not holistically summarize my knowledge areas as one learns from many facets rather than 
 just certified courses.
 
-## Delhi Technological University pursuing _B. Tech Mathematics and Computer Eng._
+## Delhi Technological University pursuing _B. Tech Mathematics and Computing Eng._
 ### Semester 1
 - Mathematics - I
 - Physics - I
