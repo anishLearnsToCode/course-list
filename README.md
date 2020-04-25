@@ -58,8 +58,13 @@ just certified courses.
 - [Version Control With Git](https://www.coursera.org/account/accomplishments/verify/UPCHWGAGX66D)
 - [Competitive Programmer's Core Skills](https://www.coursera.org/account/accomplishments/verify/WPS6KUZMT6YL)
 - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5)
+- [Machine Learning: Regression](https://www.coursera.org/account/accomplishments/verify/UQ9UZPVU6RMF)
+- [Machine Learning: Classification](https://www.coursera.org/account/accomplishments/verify/BCZ8GWHTNV9J)
 - [Programming for Everybody (Getting started with Python)](https://www.coursera.org/account/accomplishments/records/D5K85FFC6FZT)
 - [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/W6M2HC2WW79T)
+- [How To Write and Publish a Scientific Paper](https://www.coursera.org/account/accomplishments/verify/V6NGNQ5ZYQL7)
+- [Healing With the Arts](https://www.coursera.org/account/accomplishments/verify/A2YD424R3JNX)
+- [Data Science Math Skills](https://www.coursera.org/account/accomplishments/verify/QVKVPWWLEZU3)
 
 ## Udemy 
 - [3-Minute French Course 1](https://www.udemy.com/certificate/UC-1KECT4EP/)
