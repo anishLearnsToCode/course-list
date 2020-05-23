@@ -65,6 +65,8 @@ just certified courses.
 - [How To Write and Publish a Scientific Paper](https://www.coursera.org/account/accomplishments/verify/V6NGNQ5ZYQL7)
 - [Healing With the Arts](https://www.coursera.org/account/accomplishments/verify/A2YD424R3JNX)
 - [Data Science Math Skills](https://www.coursera.org/account/accomplishments/verify/QVKVPWWLEZU3)
+- [Introduction to Calculus](http://coursera.org/verify/NQMRJLG6VTRY)
+- [Functional Programming Principles in Scala](http://coursera.org/verify/CTQZVZZZKT5W)
 
 ## Udemy 
 - [3-Minute French Course 1](https://www.udemy.com/certificate/UC-1KECT4EP/)
