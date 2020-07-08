@@ -68,6 +68,7 @@ just certified courses.
 - [Introduction to Calculus](http://coursera.org/verify/NQMRJLG6VTRY)
 - [Functional Programming Principles in Scala](http://coursera.org/verify/CTQZVZZZKT5W)
 - [Machine Learning](http://coursera.org/verify/PY3HEUJFNZ2M)
+- [Introduction to Programming With MATLAB](http://coursera.org/verify/3S3AANA8JQTN)
 
 ## Udemy 
 - [3-Minute French Course 1](https://www.udemy.com/certificate/UC-1KECT4EP/)
