@@ -69,6 +69,7 @@ just certified courses.
 - [Functional Programming Principles in Scala](http://coursera.org/verify/CTQZVZZZKT5W)
 - [Machine Learning](http://coursera.org/verify/PY3HEUJFNZ2M)
 - [Introduction to Programming With MATLAB](http://coursera.org/verify/3S3AANA8JQTN)
+- [Computer Vision Basics](http://coursera.org/verify/9H6SGUGD6YNM)
 
 ## Udemy 
 - [3-Minute French Course 1](https://www.udemy.com/certificate/UC-1KECT4EP/)
