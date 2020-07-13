@@ -54,6 +54,12 @@ just certified courses.
 - Computer Networks
 - Professional Ethics and Human Values
 
+### Semester 7
+- _To be completed in December 2021_
+
+### Semester 8
+- _To Be completed in May 2021_
+
 ## Coursera
 - [Version Control With Git](https://www.coursera.org/account/accomplishments/verify/UPCHWGAGX66D)
 - [Competitive Programmer's Core Skills](https://www.coursera.org/account/accomplishments/verify/WPS6KUZMT6YL)
