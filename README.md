@@ -60,6 +60,7 @@ just certified courses.
 - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5)
 - [Machine Learning: Regression](https://www.coursera.org/account/accomplishments/verify/UQ9UZPVU6RMF)
 - [Machine Learning: Classification](https://www.coursera.org/account/accomplishments/verify/BCZ8GWHTNV9J)
+- [Mindshift: Break Through Obstacles to Learning](http://coursera.org/verify/X8K5SWR3J3KL)
 - [Programming for Everybody (Getting started with Python)](https://www.coursera.org/account/accomplishments/records/D5K85FFC6FZT)
 - [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/W6M2HC2WW79T)
 - [How To Write and Publish a Scientific Paper](https://www.coursera.org/account/accomplishments/verify/V6NGNQ5ZYQL7)
