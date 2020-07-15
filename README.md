@@ -13,9 +13,9 @@ Links to solution repositories for coursera courses are marked as :octocat: and 
 - [Trinity College London]()
 
 <details>
-    <summary><b>Mathematics and Computing @ Delhi Technological University</b></summary>
+    <summary><h1>Mathematics and Computing @ Delhi Technological University</h1></summary>
     <details>
-        <summary><b>Semester 1</b></summary>
+        <summary><h2>Semester 1</h2></summary>
         <ul>
             <li>Mathematics - I</li>
         </ul>
