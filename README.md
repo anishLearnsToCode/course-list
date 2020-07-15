@@ -11,6 +11,7 @@ Links to solution repositories are marked as :octocat: and certificate links mar
 - [Udemy](#udemy)
 - [CERN](#cern)
 - [Trinity College London](#trinity-college-london)
+- [Coding Ninjas](#coding-ninjas)
 
 ## Mathematics & Computing @ Delhi Technological University
 <details>
