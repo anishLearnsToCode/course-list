@@ -1,12 +1,26 @@
-# List of Courses
-The following is a comprehensive guide of all the courses that I have successfully completed 
-during university and also on other platforms such as Coursera, Udemy etc. Here successful
-completion can refer to passing the course in University and Coursera or simply going through
-all the video content and assignments on Udemy.
+# Courses and Certifications
+A comprehensive list of all the courses that I have successfully completed 
+during university and also on other platforms such as Coursera, Udemy etc.
 
-It must also be mentioned that official courses are just one way of learning so this list doesn't
-and can not holistically summarize my knowledge areas as one learns from many facets rather than 
-just certified courses.
+Links to solution repositories for coursera courses are marked as :octocat: and certificate links marked as 🎓.
+
+## Index
+- [B. Tech Mathematics and Computing @ DTU]()
+- [Coursera]()
+- [HackerRank]()
+- [Udemy]()
+- [CERN]()
+- [Trinity College London]()
+
+<details>
+    <summary><b>Mathematics and Computing @ Delhi Technological University</b></summary>
+    <details>
+        <summary><b>Semester 1</b></summary>
+        <ul>
+            <li>Mathematics - I</li>
+        </ul>
+    </details>
+</details>
 
 ## Delhi Technological University pursuing _B. Tech Mathematics and Computing Eng._
 ### Semester 1
