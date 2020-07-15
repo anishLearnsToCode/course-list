@@ -12,17 +12,20 @@ Links to solution repositories for coursera courses are marked as :octocat: and 
 - [CERN]()
 - [Trinity College London]()
 
+## Delhi Technological University pursuing _B. Tech Mathematics and Computing Eng._
+
 <details>
-    <summary><p style="font-size: 200px">Mathematics and Computing @ Delhi Technological University</p></summary>
-    <details>
-        <summary><p style="font-size: 10px">Semester 1</p></summary>
-        <ul>
-            <li>Mathematics - I</li>
-        </ul>
-    </details>
+    <summary><b>Semester - I</b></summary>
+    <ul>
+        <li>Mathematics - I</li>
+        <li>Physics - I</li>
+        <li>Basic Electrical Engineering</li>
+        <li>Programming Fundamentals</li>
+        <li>Engineering Graphics</li>
+        <li>Introduction to Environmental Science</li>
+    </ul>
 </details>
 
-## Delhi Technological University pursuing _B. Tech Mathematics and Computing Eng._
 ### Semester 1
 - Mathematics - I
 - Physics - I
