@@ -115,10 +115,10 @@ Links to solution repositories for coursera courses are marked as :octocat: and 
 - [Computer Vision Basics](http://coursera.org/verify/9H6SGUGD6YNM)
 
 ## HackerRank
-- [:octocat:]() [🎓]() [Java (Basic)]() 
-- [:octocat:]() [🎓]() [Java (Basic)]() 
-- [:octocat:]() [🎓]() [Java (Basic)]() 
-- [:octocat:]() [🎓]() [Java (Basic)]() 
+- [Java (Basic)]() [:octocat:]() [🎓]() 
+- [Java (Basic)]() [:octocat:]() [🎓]() 
+- [Java (Basic)]() [:octocat:]() [🎓]() 
+- [Java (Basic)]() [:octocat:]() [🎓]() 
 
 
 ## Udemy 
