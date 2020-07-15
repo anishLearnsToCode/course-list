@@ -2,7 +2,7 @@
 A comprehensive list of all the courses that I have successfully completed 
 during university and also on other platforms such as Coursera, Udemy etc.
 
-Links to solution repositories for coursera courses are marked as :octocat: and certificate links marked as 🎓.
+Links to solution repositories are marked as :octocat: and certificate links marked as 🎓.
 
 ## Index
 - [B. Tech Mathematics and Computing @ DTU](#mathematics--computing--delhi-technological-university)
