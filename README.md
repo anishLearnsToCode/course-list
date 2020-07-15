@@ -5,12 +5,12 @@ during university and also on other platforms such as Coursera, Udemy etc.
 Links to solution repositories for coursera courses are marked as :octocat: and certificate links marked as 🎓.
 
 ## Index
-- [B. Tech Mathematics and Computing @ DTU]()
-- [Coursera]()
+- [B. Tech Mathematics and Computing @ DTU](#mathematics--computing--delhi-technological-university)
+- [Coursera](#coursera)
 - [HackerRank]()
-- [Udemy]()
-- [CERN]()
-- [Trinity College London]()
+- [Udemy](#udemy)
+- [CERN](#cern)
+- [Trinity College London](#trinity-college-london)
 
 ## Mathematics & Computing @ Delhi Technological University
 <details>
@@ -113,6 +113,13 @@ Links to solution repositories for coursera courses are marked as :octocat: and 
 - [Machine Learning](http://coursera.org/verify/PY3HEUJFNZ2M)
 - [Introduction to Programming With MATLAB](http://coursera.org/verify/3S3AANA8JQTN)
 - [Computer Vision Basics](http://coursera.org/verify/9H6SGUGD6YNM)
+
+## HackerRank
+- [:octocat:]() [🎓]() [Java (Basic)]() 
+- [:octocat:]() [🎓]() [Java (Basic)]() 
+- [:octocat:]() [🎓]() [Java (Basic)]() 
+- [:octocat:]() [🎓]() [Java (Basic)]() 
+
 
 ## Udemy 
 - [3-Minute French Course 1](https://www.udemy.com/certificate/UC-1KECT4EP/)
