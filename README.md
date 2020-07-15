@@ -7,7 +7,7 @@ Links to solution repositories for coursera courses are marked as :octocat: and 
 ## Index
 - [B. Tech Mathematics and Computing @ DTU](#mathematics--computing--delhi-technological-university)
 - [Coursera](#coursera)
-- [HackerRank]()
+- [HackerRank](#hackerrank)
 - [Udemy](#udemy)
 - [CERN](#cern)
 - [Trinity College London](#trinity-college-london)
@@ -97,10 +97,10 @@ Links to solution repositories for coursera courses are marked as :octocat: and 
 </details>
 
 ## Coursera
-- [Version Control With Git](https://www.coursera.org/account/accomplishments/verify/UPCHWGAGX66D)
-- [Competitive Programmer's Core Skills](https://www.coursera.org/account/accomplishments/verify/WPS6KUZMT6YL)
-- [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5)
-- [Machine Learning: Regression](https://www.coursera.org/account/accomplishments/verify/UQ9UZPVU6RMF)
+- [Version Control With Git](https://www.coursera.org/learn/version-control-with-git/)  [🎓](https://www.coursera.org/account/accomplishments/verify/UPCHWGAGX66D)
+- [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills/) [🎓](https://www.coursera.org/account/accomplishments/verify/WPS6KUZMT6YL)
+- [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/) [🎓](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5)
+- [Machine Learning: Regression]() [🎓](https://www.coursera.org/account/accomplishments/verify/UQ9UZPVU6RMF)
 - [Machine Learning: Classification](https://www.coursera.org/account/accomplishments/verify/BCZ8GWHTNV9J)
 - [Mindshift: Break Through Obstacles to Learning](http://coursera.org/verify/X8K5SWR3J3KL)
 - [Programming for Everybody (Getting started with Python)](https://www.coursera.org/account/accomplishments/records/D5K85FFC6FZT)
