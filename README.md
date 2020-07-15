@@ -1,4 +1,4 @@
-# Courses and Certifications
+# Courses + Certifications
 A comprehensive list of all the courses that I have successfully completed 
 during university and also on other platforms such as Coursera, Udemy etc.
 
@@ -12,8 +12,7 @@ Links to solution repositories for coursera courses are marked as :octocat: and 
 - [CERN]()
 - [Trinity College London]()
 
-## Delhi Technological University pursuing _B. Tech Mathematics and Computing Eng._
-
+## Mathematics & Computing @ Delhi Technological University
 <details>
     <summary><b>Semester - I</b></summary>
     <ul>
@@ -26,56 +25,76 @@ Links to solution repositories for coursera courses are marked as :octocat: and 
     </ul>
 </details>
 
-### Semester 1
-- Mathematics - I
-- Physics - I
-- Basic Electrical Engineering 
-- Programming Fundamentals
-- Engineering Graphics
-- Introduction to Environmental Science
+<details>
+    <summary><b>Semester - II</b></summary>
+    <ul>
+        <li>Mathematics - II</li>
+        <li>Physics - II</li>
+        <li>Chemistry</li>
+        <li>Basic Mechanical Engineering</li>
+        <li>Workshop Practice</li>
+        <li>Communication Skills</li>
+    </ul>
+</details>
 
-### Semester 2
-- Mathematics - II
-- Physics - II
-- Chemistry
-- Basic Mechanical Engineering
-- Workshop Practice
-- Communication Skills
+<details>
+    <summary><b>Semester - III</b></summary>
+    <ul>
+        <li>Data Structures</li>
+        <li>Discrete Mathematics</li>
+        <li>Mathematics - III</li>
+        <li>Probability and Statistics</li>
+        <li>Engineering Analysis and design </li>
+        <li>Fundamentals of Management</li>
+    </ul>
+</details>
 
-### Semester 3
-- Data Structures
-- Discrete Mathematics
- - Mathematics - III
- - Probability and Statistics
- - Engineering Analysis and design 
- - Fundamentals of Management
-  
-### Semester 4
-- Algorithm Design and Analysis 
-- Real Analysis
-- Computer Organization and Architecture
-- Linear Algebra
-- Scientific Computing 
-- Engineering Economics
+<details>
+    <summary><b>Semester - IV</b></summary>
+    <ul>
+        <li>Algorithm Design and Analysis</li>
+        <li>Real Analysis</li>
+        <li>Computer Organization and Architecture</li>
+        <li>Linear Algebra</li>
+        <li>Scientific Computing</li>
+        <li>Engineering Economics</li>
+    </ul>
+</details>
 
-### Semester 5
-- Stochastic Process
-- Operating Systems
-- Computer Vision
-- Technical Communication 
+<details>
+    <summary><b>Semester - V</b></summary>
+    <ul>
+        <li>Stochastic Process</li>
+        <li>Operating Systems</li>
+        <li>Computer Vision</li>
+        <li>Technical Communication</li>
+    </ul>
+</details>
 
-### Semester 6
-- Database Management System
-- Theory of Computation
-- Financial Engineering
-- Computer Networks
-- Professional Ethics and Human Values
+<details>
+    <summary><b>Semester - VI</b></summary>
+    <ul>
+        <li>Database Management System</li>
+        <li>Theory of Computation</li>
+        <li>Financial Engineering</li>
+        <li>Computer Networks</li>
+        <li>Professional Ethics and Human Values</li>
+    </ul>
+</details>
 
-### Semester 7
-- _To be completed in December 2021_
+<details>
+    <summary><b>Semester - VII</b></summary>
+    <ul>
+        <li>To be completed in December 2021</li>
+    </ul>
+</details>
 
-### Semester 8
-- _To Be completed in May 2021_
+<details>
+    <summary><b>Semester - VIII</b></summary>
+    <ul>
+        <li>To be completed in May 2021</li>
+    </ul>
+</details>
 
 ## Coursera
 - [Version Control With Git](https://www.coursera.org/account/accomplishments/verify/UPCHWGAGX66D)
