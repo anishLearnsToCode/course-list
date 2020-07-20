@@ -114,6 +114,7 @@ Links to solution repositories are marked as :octocat: and certificate links mar
 - [Machine Learning]() [🎓](http://coursera.org/verify/PY3HEUJFNZ2M) [:octocat:](https://github.com/anishLearnsToCode/ml-stanford)
 - [Introduction to Programming With MATLAB](https://www.coursera.org/learn/matlab) [🎓](http://coursera.org/verify/3S3AANA8JQTN) [:octocat:](https://github.com/anishLearnsToCode/introduction-to-programming-with-matlab)
 - [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics) [🎓](http://coursera.org/verify/9H6SGUGD6YNM) [:octocat:](https://github.com/anishLearnsToCode/computer-vision-basics)
+- [Image & Video Processing: From Mars To Hollywood With a Stop At The Hospital](https://www.coursera.org/learn/image-processing) [🎓](http://coursera.org/verify/JPV9JYDEZVBQ) [:octocat:](https://github.com/anishLearnsToCode/from-mars-to-hollywood-with-a-stop-at-the-hospital)
 
 ## HackerRank
 - [Java (Basic)](https://www.hackerrank.com/skills-verification) [🎓](https://www.hackerrank.com/certificates/e7bb326e632c) [:octocat:](https://github.com/anishLearnsToCode/hackerrank-java-basic-skill-test)  
