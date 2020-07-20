@@ -115,7 +115,7 @@ Links to solution repositories are marked as :octocat: and certificate links mar
 - [Introduction to Programming With MATLAB](https://www.coursera.org/learn/matlab) [🎓](http://coursera.org/verify/3S3AANA8JQTN) [:octocat:](https://github.com/anishLearnsToCode/introduction-to-programming-with-matlab)
 - [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics) [🎓](http://coursera.org/verify/9H6SGUGD6YNM) [:octocat:](https://github.com/anishLearnsToCode/computer-vision-basics)
 - [Image & Video Processing: From Mars To Hollywood With a Stop At The Hospital](https://www.coursera.org/learn/image-processing) [🎓](http://coursera.org/verify/JPV9JYDEZVBQ) [:octocat:](https://github.com/anishLearnsToCode/from-mars-to-hollywood-with-a-stop-at-the-hospital)
-- [Machine Learning Specialization ~ University of Washington](https://github.com/anishLearnsToCode/ml-uni-washington)
+- Machine Learning Specialization ~ University of Washington [:octocat:](https://github.com/anishLearnsToCode/ml-uni-washington)
     - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/) [🎓](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5)
     - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression/) [🎓](https://www.coursera.org/account/accomplishments/verify/UQ9UZPVU6RMF)
     - [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification/) [🎓](https://www.coursera.org/account/accomplishments/verify/BCZ8GWHTNV9J)
