@@ -101,6 +101,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
 </details>
 
 ## Coursera
+### Courses
 - [Version Control With Git](https://www.coursera.org/learn/version-control-with-git/)  [🎓](https://www.coursera.org/account/accomplishments/verify/UPCHWGAGX66D)
 - [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills/) [🎓](https://www.coursera.org/account/accomplishments/verify/WPS6KUZMT6YL)
 - [Mindshift: Break Through Obstacles to Learning](https://www.coursera.org/learn/mindshift/) [🎓](http://coursera.org/verify/X8K5SWR3J3KL)
@@ -116,6 +117,15 @@ during university and also on other platforms such as Coursera, Udemy etc.
 - [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics) [🎓](http://coursera.org/verify/9H6SGUGD6YNM) [:octocat:](https://github.com/anishLearnsToCode/computer-vision-basics)
 - [Image & Video Processing: From Mars To Hollywood With a Stop At The Hospital](https://www.coursera.org/learn/image-processing) [🎓](http://coursera.org/verify/JPV9JYDEZVBQ) [:octocat:](https://github.com/anishLearnsToCode/from-mars-to-hollywood-with-a-stop-at-the-hospital)
 - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) [🎓](http://coursera.org/verify/UWWDZKHQA86D) [:octocat:](https://github.com/anishLearnsToCode/algorithmic-toolbox)
+
+### Specializations
+- [Deep Learning Specialization ~ deeplearning.ai](https://www.coursera.org/specializations/deep-learning) [:octocat:](https://github.com/anishLearnsToCode/deep-learning-ai)
+    - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) [:octocat:](https://github.com/anishLearnsToCode/neural-networks-deep-learning)
+    - [Improving Deep Neural Networks: Hyperparameterization Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) 
+    - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) 
+    - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
+    - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+
 - Machine Learning Specialization ~ University of Washington [:octocat:](https://github.com/anishLearnsToCode/ml-uni-washington)
     - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/) [🎓](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5) [:octocat:](https://github.com/anishLearnsToCode/ml-foundations-case-study-approach)
     - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression/) [🎓](https://www.coursera.org/account/accomplishments/verify/UQ9UZPVU6RMF)
