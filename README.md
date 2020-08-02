@@ -105,8 +105,6 @@ during university and also on other platforms such as Coursera, Udemy etc.
 - [Version Control With Git](https://www.coursera.org/learn/version-control-with-git/)  [🎓](https://www.coursera.org/account/accomplishments/verify/UPCHWGAGX66D)
 - [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills/) [🎓](https://www.coursera.org/account/accomplishments/verify/WPS6KUZMT6YL)
 - [Mindshift: Break Through Obstacles to Learning](https://www.coursera.org/learn/mindshift/) [🎓](http://coursera.org/verify/X8K5SWR3J3KL)
-- [Programming for Everybody (Getting started with Python)](https://www.coursera.org/learn/python/) [🎓](https://www.coursera.org/account/accomplishments/records/D5K85FFC6FZT)
-- [Python Data Structures](https://www.coursera.org/learn/python-data/) [🎓](https://www.coursera.org/account/accomplishments/verify/W6M2HC2WW79T)
 - [How To Write and Publish a Scientific Paper](https://www.coursera.org/learn/how-to-write-a-scientific-paper/) [🎓](https://www.coursera.org/account/accomplishments/verify/V6NGNQ5ZYQL7)
 - [Healing With the Arts](https://www.coursera.org/learn/healing-with-the-arts) [🎓](https://www.coursera.org/account/accomplishments/verify/A2YD424R3JNX)
 - [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) [🎓](https://www.coursera.org/account/accomplishments/verify/QVKVPWWLEZU3)
@@ -126,13 +124,17 @@ during university and also on other platforms such as Coursera, Udemy etc.
     - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
     - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
-- Machine Learning Specialization ~ University of Washington [:octocat:](https://github.com/anishLearnsToCode/ml-uni-washington)
+- [Machine Learning Specialization ~ University of Washington](https://www.coursera.org/specializations/machine-learning) [:octocat:](https://github.com/anishLearnsToCode/ml-uni-washington)
     - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/) [🎓](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5) [:octocat:](https://github.com/anishLearnsToCode/ml-foundations-case-study-approach)
     - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression/) [🎓](https://www.coursera.org/account/accomplishments/verify/UQ9UZPVU6RMF)
     - [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification/) [🎓](https://www.coursera.org/account/accomplishments/verify/BCZ8GWHTNV9J)
     
 - [Introduction to Applied Cryptography ~ University of Colorado](https://www.coursera.org/specializations/introduction-applied-cryptography) [:octocat:](https://github.com/anishLearnsToCode/intro-to-applied-cryptography)
     - [Classical Cryptosystems and Core Concepts]() [:octocat:](https://github.com/anishLearnsToCode/classical-cryptosystems-core-concepts) [🎓](https://www.coursera.org/verify/7FVGRVKAFW73)   
+    
+- [Python For Everybody ~ University of Michigan](https://www.coursera.org/specializations/python) [:octocat:](https://github.com/anishLearnsToCode/python-for-everybody)
+    - [Programming for Everybody (Getting started with Python)](https://www.coursera.org/learn/python/) [🎓](https://www.coursera.org/account/accomplishments/records/D5K85FFC6FZT)
+    - [Python Data Structures](https://www.coursera.org/learn/python-data/) [🎓](https://www.coursera.org/verify/W6M2HC2WW79T)
 
 ## HackerRank
 - [Java (Basic)](https://www.hackerrank.com/skills-verification) [🎓](https://www.hackerrank.com/certificates/e7bb326e632c) [:octocat:](https://github.com/anishLearnsToCode/hackerrank-java-basic-skill-test)  
