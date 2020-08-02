@@ -110,11 +110,10 @@ during university and also on other platforms such as Coursera, Udemy etc.
 - [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) [🎓](https://www.coursera.org/account/accomplishments/verify/QVKVPWWLEZU3)
 - [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) [🎓](http://coursera.org/verify/NQMRJLG6VTRY)
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1/) [🎓](http://coursera.org/verify/CTQZVZZZKT5W)
-- [Machine Learning]() [🎓](http://coursera.org/verify/PY3HEUJFNZ2M) [:octocat:](https://github.com/anishLearnsToCode/ml-stanford)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning) [🎓](http://coursera.org/verify/PY3HEUJFNZ2M) [:octocat:](https://github.com/anishLearnsToCode/ml-stanford)
 - [Introduction to Programming With MATLAB](https://www.coursera.org/learn/matlab) [🎓](http://coursera.org/verify/3S3AANA8JQTN) [:octocat:](https://github.com/anishLearnsToCode/introduction-to-programming-with-matlab)
 - [Computer Vision Basics](https://www.coursera.org/learn/computer-vision-basics) [🎓](http://coursera.org/verify/9H6SGUGD6YNM) [:octocat:](https://github.com/anishLearnsToCode/computer-vision-basics)
 - [Image & Video Processing: From Mars To Hollywood With a Stop At The Hospital](https://www.coursera.org/learn/image-processing) [🎓](http://coursera.org/verify/JPV9JYDEZVBQ) [:octocat:](https://github.com/anishLearnsToCode/from-mars-to-hollywood-with-a-stop-at-the-hospital)
-- [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) [🎓](http://coursera.org/verify/UWWDZKHQA86D) [:octocat:](https://github.com/anishLearnsToCode/algorithmic-toolbox)
 
 ### Specializations
 - [Deep Learning Specialization ~ deeplearning.ai](https://www.coursera.org/specializations/deep-learning) [:octocat:](https://github.com/anishLearnsToCode/deep-learning-ai)
@@ -131,6 +130,9 @@ during university and also on other platforms such as Coursera, Udemy etc.
     
 - [Introduction to Applied Cryptography ~ University of Colorado](https://www.coursera.org/specializations/introduction-applied-cryptography) [:octocat:](https://github.com/anishLearnsToCode/intro-to-applied-cryptography)
     - [Classical Cryptosystems and Core Concepts]() [:octocat:](https://github.com/anishLearnsToCode/classical-cryptosystems-core-concepts) [🎓](https://www.coursera.org/verify/7FVGRVKAFW73)   
+    
+- [Data Structures and Algorithms ~ University of California San Diego](https://www.coursera.org/specializations/data-structures-algorithms) [:octocat:](https://github.com/anishLearnsToCode/data-structures-algorithms)
+    - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) [🎓](http://coursera.org/verify/UWWDZKHQA86D) [:octocat:](https://github.com/anishLearnsToCode/algorithmic-toolbox)
     
 - [Python For Everybody ~ University of Michigan](https://www.coursera.org/specializations/python) [:octocat:](https://github.com/anishLearnsToCode/python-for-everybody)
     - [Programming for Everybody (Getting started with Python)](https://www.coursera.org/learn/python/) [🎓](https://www.coursera.org/account/accomplishments/records/D5K85FFC6FZT)
