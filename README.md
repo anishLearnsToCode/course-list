@@ -130,6 +130,9 @@ during university and also on other platforms such as Coursera, Udemy etc.
     - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/) [🎓](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5) [:octocat:](https://github.com/anishLearnsToCode/ml-foundations-case-study-approach)
     - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression/) [🎓](https://www.coursera.org/account/accomplishments/verify/UQ9UZPVU6RMF)
     - [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification/) [🎓](https://www.coursera.org/account/accomplishments/verify/BCZ8GWHTNV9J)
+    
+- [Introduction to Applied Cryptography ~ University of Colorado](https://www.coursera.org/specializations/introduction-applied-cryptography) [:octocat:](https://github.com/anishLearnsToCode/intro-to-applied-cryptography)
+    - [Classical Cryptosystems and Core Concepts]() [:octocat:](https://github.com/anishLearnsToCode/classical-cryptosystems-core-concepts) [🎓](https://www.coursera.org/verify/7FVGRVKAFW73)   
 
 ## HackerRank
 - [Java (Basic)](https://www.hackerrank.com/skills-verification) [🎓](https://www.hackerrank.com/certificates/e7bb326e632c) [:octocat:](https://github.com/anishLearnsToCode/hackerrank-java-basic-skill-test)  
