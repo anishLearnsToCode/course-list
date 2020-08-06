@@ -89,7 +89,10 @@ during university and also on other platforms such as Coursera, Udemy etc.
 <details>
     <summary><b>Semester - VII</b></summary>
     <ul>
-        <li>To be completed in December 2021</li>
+        <li>Graph Theory</li>
+        <li>Cryptography & Network Security</li>
+        <li>Mathematical Modelling & Simulation</li>
+        <li>Natural Language Processing</li>
     </ul>
 </details>
 
