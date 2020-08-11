@@ -1,7 +1,5 @@
 # Courses + Certifications
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/course-list)
-
 A comprehensive list of all the courses that I have successfully completed 
 during university and also on other platforms such as Coursera, Udemy etc.
 
