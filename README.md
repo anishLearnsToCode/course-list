@@ -125,6 +125,9 @@ during university and also on other platforms such as Coursera, Udemy etc.
     - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) 
     - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
     - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+   
+- [Natural Language Processing ~ deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing) [:octocat:](https://github.com/anishLearnsToCode/nlp-deeplearning-ai)
+    - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) [:octocat:](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) [🎓](http://coursera.org/verify/LGBF7J8S99RG)
 
 - [Machine Learning Specialization ~ University of Washington](https://www.coursera.org/specializations/machine-learning) [:octocat:](https://github.com/anishLearnsToCode/ml-uni-washington)
     - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/) [🎓](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5) [:octocat:](https://github.com/anishLearnsToCode/ml-foundations-case-study-approach)
