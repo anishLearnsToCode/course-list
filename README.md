@@ -117,7 +117,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
 - [Image & Video Processing: From Mars To Hollywood With a Stop At The Hospital](https://www.coursera.org/learn/image-processing) [🎓](http://coursera.org/verify/JPV9JYDEZVBQ) [:octocat:](https://github.com/anishLearnsToCode/from-mars-to-hollywood-with-a-stop-at-the-hospital)
 
 ### Specializations
-- [Deep Learning Specialization ~ deeplearning.ai](https://www.coursera.org/specializations/deep-learning) [:octocat:](https://github.com/anishLearnsToCode/deep-learning-ai)
+- [Deep Learning ~ deeplearning.ai](https://www.coursera.org/specializations/deep-learning) [:octocat:](https://github.com/anishLearnsToCode/deep-learning-ai)
     - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) [:octocat:](https://github.com/anishLearnsToCode/neural-networks-deep-learning)
     - [Improving Deep Neural Networks: Hyperparameterization Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) 
     - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) 
@@ -128,7 +128,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
     - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) [:octocat:](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) [🎓](http://coursera.org/verify/LGBF7J8S99RG)
     - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp) [:octocat:](https://github.com/anishLearnsToCode/nlp-probabilistic-models) [🎓](https://coursera.org/verify/PGMHY4YCG85G)
 
-- [Machine Learning Specialization ~ University of Washington](https://www.coursera.org/specializations/machine-learning) [:octocat:](https://github.com/anishLearnsToCode/ml-uni-washington)
+- [Machine Learning ~ University of Washington](https://www.coursera.org/specializations/machine-learning) [:octocat:](https://github.com/anishLearnsToCode/ml-uni-washington)
     - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/) [🎓](https://www.coursera.org/account/accomplishments/verify/GCKW98KUK5X5) [:octocat:](https://github.com/anishLearnsToCode/ml-foundations-case-study-approach)
     - [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression/) [🎓](https://www.coursera.org/account/accomplishments/verify/UQ9UZPVU6RMF)
     - [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification/) [🎓](https://www.coursera.org/account/accomplishments/verify/BCZ8GWHTNV9J)
