@@ -89,6 +89,10 @@ during university and also on other platforms such as Coursera, Udemy etc.
     <ul>
         <li>Graph Theory</li>
         <li>Cryptography & Network Security</li>
+        <ul>
+            <li><a href="https://github.com/anishLearnsToCode/cryptography">Interactive Guide to Cryptography ~ Behrouz A. Forouzan</a> </li>
+            <li><a href="https://github.com/anishLearnsToCode/DES">Data Encryption Standard (DES)</a> </li>
+        </ul>
         <li>Mathematical Modelling & Simulation</li>
         <li>Natural Language Processing</li>
     </ul>
