@@ -95,6 +95,11 @@ during university and also on other platforms such as Coursera, Udemy etc.
         </ol>
         <li>Mathematical Modelling & Simulation</li>
         <li>Natural Language Processing</li>
+        <ol>
+            <li><a href="https://github.com/anishLearnsToCode/porter-stemmer">Porter Stemmer</a> </li>
+            <li><a href="https://github.com/anishLearnsToCode/stop-words-removal">Stop Words Removal</a> </li>
+            <li><a href="https://github.com/anishLearnsToCode/lemmatization">Lemmatization</a> </li>
+        </ol>
     </ul>
 </details>
 
