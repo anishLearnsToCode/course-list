@@ -18,94 +18,94 @@ during university and also on other platforms such as Coursera, Udemy etc.
 <details>
     <summary><b>Semester - I</b></summary>
     <ul>
-        <li>Mathematics - I</li>
-        <li>Physics - I</li>
-        <li>Basic Electrical Engineering</li>
-        <li>Programming Fundamentals</li>
-        <li>Engineering Graphics</li>
-        <li>Introduction to Environmental Science</li>
+        <li>Mathematics - I (MA-101)</li>
+        <li>Physics - I (AP-101)</li>
+        <li>Basic Electrical Engineering (EE-102)</li>
+        <li>Programming Fundamentals (CO-102)</li>
+        <li>Engineering Graphics (ME-102)</li>
+        <li>Introduction to Environmental Science (EN-102)</li>
     </ul>
 </details>
 
 <details>
     <summary><b>Semester - II</b></summary>
     <ul>
-        <li>Mathematics - II</li>
-        <li>Physics - II</li>
-        <li>Chemistry</li>
-        <li>Basic Mechanical Engineering</li>
-        <li>Workshop Practice</li>
-        <li>Communication Skills</li>
+        <li>Mathematics - II (MA-102)</li>
+        <li>Physics - II (AP-102)</li>
+        <li>Chemistry (AC-101)</li>
+        <li>Basic Mechanical Engineering (ME-101)</li>
+        <li>Workshop Practice (ME-103)</li>
+        <li>Communication Skills (HU-101)</li>
     </ul>
 </details>
 
 <details>
     <summary><b>Semester - III</b></summary>
     <ul>
-        <li>Data Structures</li>
-        <li>Discrete Mathematics</li>
-        <li>Mathematics - III</li>
-        <li>Probability and Statistics</li>
-        <li>Engineering Analysis and design </li>
-        <li>Fundamentals of Management</li>
+        <li>Data Structures (CS-251)</li>
+        <li>Discrete Mathematics (MC-201)</li>
+        <li>Mathematics - III (MC-203)</li>
+        <li>Probability and Statistics (MC-205)</li>
+        <li>Engineering Analysis and Design (MC-207)</li>
+        <li>Fundamentals of Management (MG-201)</li>
     </ul>
 </details>
 
 <details>
     <summary><b>Semester - IV</b></summary>
     <ul>
-        <li>Algorithm Design and Analysis</li>
-        <li>Real Analysis</li>
-        <li>Computer Organization and Architecture</li>
-        <li>Linear Algebra</li>
-        <li>Scientific Computing</li>
-        <li>Engineering Economics</li>
+        <li>Algorithm Design and Analysis (CS-262)</li>
+        <li>Real Analysis (MC-202)</li>
+        <li>Computer Organization and Architecture (MC-206)</li>
+        <li>Linear Algebra (MC-208)</li>
+        <li>Scientific Computing (MC-204)</li>
+        <li>Engineering Economics (HU-202)</li>
     </ul>
 </details>
 
 <details>
     <summary><b>Semester - V</b></summary>
     <ul>
-        <li>Stochastic Process</li>
-        <li>Operating Systems</li>
-        <li>Computer Vision</li>
-        <li>Technical Communication</li>
+        <li>Stochastic Process (MC-303)</li>
+        <li>Operating Systems (MC-301)</li>
+        <li>Computer Vision (EC-353)</li>
+        <li>Technical Communication (HU-301)</li>
     </ul>
 </details>
 
 <details>
     <summary><b>Semester - VI</b></summary>
     <ul>
-        <li>Database Management System</li>
-        <li>Theory of Computation</li>
-        <li>Financial Engineering</li>
-        <li>Computer Networks</li>
-        <li>Professional Ethics and Human Values</li>
+        <li>Database Management System (MC-302)</li>
+        <li>Theory of Computation (MC-304)</li>
+        <li>Financial Engineering (MC-306)</li>
+        <li>Computer Networks (MC-308)</li>
+        <li>Professional Ethics and Human Values (HU-304)</li>
     </ul>
 </details>
 
 <details>
     <summary><b>Semester - VII</b></summary>
     <ul>
-        <li>Graph Theory</li>
+        <li>Graph Theory (MC-405)</li>
         <ol>
             <li><a href="https://github.com/anishLearnsToCode/graph-theory-lab">Graph Theory Lab</a> </li>
         </ol>
-        <li>Cryptography & Network Security</li>
+        <li>Cryptography & Network Security (MC-407)</li>
         <ol>
             <li><a href="https://github.com/anishLearnsToCode/cryptography">Interactive Guide to Cryptography</a> </li>
             <li><a href="https://github.com/anishLearnsToCode/DES">Data Encryption Standard (DES)</a> </li>
         </ol>
-        <li>Mathematical Modelling & Simulation</li>
+        <li>Mathematical Modelling & Simulation (MC-409)</li>
         <ol>
             <li><a href="https://github.com/anishLearnsToCode/mathematical-modelling-lab">Mathematical Modelling & Simulation Lab</a> </li>
         </ol>
-        <li>Natural Language Processing</li>
+        <li>Natural Language Processing (IT-425)</li>
         <ol>
             <li><a href="https://github.com/anishLearnsToCode/porter-stemmer">Porter Stemmer</a> </li>
             <li><a href="https://github.com/anishLearnsToCode/stop-words-removal">Stop Words Removal</a> </li>
             <li><a href="https://github.com/anishLearnsToCode/lemmatization">Lemmatization</a> </li>
-            <li><a href="https://github.com/anishLearnsToCode/word-embeddings">Continous Bag of Words (CBOW) Model</a> </li>
+            <li><a href="https://github.com/anishLearnsToCode/word-embeddings">Continuous Bag of Words (CBOW) Model</a> </li>
         </ol>
     </ul>
 </details>
