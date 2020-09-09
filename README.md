@@ -21,7 +21,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
         <li>Mathematics - I (MA-101)</li>
         <li>Physics - I (AP-101)</li>
         <li>Basic Electrical Engineering (EE-102)</li>
-        <li>Programming Fundamentals (CO-102)</li>
+        <li>Programming Fundamentals (CO-101)</li>
         <li>Engineering Graphics (ME-102)</li>
         <li>Introduction to Environmental Science (EN-102)</li>
     </ul>
@@ -43,6 +43,9 @@ during university and also on other platforms such as Coursera, Udemy etc.
     <summary><b>Semester - III</b></summary>
     <ul>
         <li>Data Structures (CS-251)</li>
+        <ol>
+            <li><a href="https://github.com/anishLearnsToCode/cs-251-data-structures">Data Structures Lab</a></li>
+        </ol>
         <li>Discrete Mathematics (MC-201)</li>
         <li>Mathematics - III (MC-203)</li>
         <li>Probability and Statistics (MC-205)</li>
