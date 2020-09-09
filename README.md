@@ -105,6 +105,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
             <li><a href="https://github.com/anishLearnsToCode/porter-stemmer">Porter Stemmer</a> </li>
             <li><a href="https://github.com/anishLearnsToCode/stop-words-removal">Stop Words Removal</a> </li>
             <li><a href="https://github.com/anishLearnsToCode/lemmatization">Lemmatization</a> </li>
+            <li><a href="https://github.com/anishLearnsToCode/bow-representation">Bag of Words Representation</a> </li>
             <li><a href="https://github.com/anishLearnsToCode/word-embeddings">Continuous Bag of Words (CBOW) Model</a> </li>
         </ol>
     </ul>
