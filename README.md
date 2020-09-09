@@ -72,6 +72,11 @@ during university and also on other platforms such as Coursera, Udemy etc.
         <li>Stochastic Process (MC-303)</li>
         <li>Operating Systems (MC-301)</li>
         <li>Computer Vision (EC-353)</li>
+        <ol>
+            <li><a href="https://github.com/anishLearnsToCode/computer-vision-basics">Computer Vision Basics @ Coursera</a> </li>
+            <li><a href="https://github.com/anishLearnsToCode/from-mars-to-hollywood-with-a-stop-at-the-hospital">From Mars To Hollywood with a Stop at the Hospital @ Coursera</a> </li>
+            <li><a href="https://github.com/anishLearnsToCode/nature-encoded-fusion">Representation Learning and Nature Encoded Fusion Technique for Heterogeneous Sensor Networks</a> </li>
+        </ol>
         <li>Technical Communication (HU-301)</li>
     </ul>
 </details>
