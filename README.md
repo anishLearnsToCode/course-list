@@ -161,7 +161,8 @@ during university and also on other platforms such as Coursera, Udemy etc.
     - [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification/) [🎓](https://www.coursera.org/account/accomplishments/verify/BCZ8GWHTNV9J)
     
 - [Introduction to Applied Cryptography ~ University of Colorado](https://www.coursera.org/specializations/introduction-applied-cryptography) [:octocat:](https://github.com/anishLearnsToCode/intro-to-applied-cryptography)
-    - [Classical Cryptosystems and Core Concepts]() [:octocat:](https://github.com/anishLearnsToCode/classical-cryptosystems-core-concepts) [🎓](https://www.coursera.org/verify/7FVGRVKAFW73)   
+    - [Classical Cryptosystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems) [:octocat:](https://github.com/anishLearnsToCode/classical-cryptosystems-core-concepts) [🎓](https://www.coursera.org/verify/7FVGRVKAFW73)   
+    - [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography) [:octocat:](https://github.com/anishLearnsToCode/mathematical-foundations-cryptography) [🎓](http://coursera.org/verify/ZPQF7QGV22XT)
     
 - [Data Structures and Algorithms ~ University of California San Diego](https://www.coursera.org/specializations/data-structures-algorithms) [:octocat:](https://github.com/anishLearnsToCode/data-structures-algorithms)
     - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) [🎓](http://coursera.org/verify/UWWDZKHQA86D) [:octocat:](https://github.com/anishLearnsToCode/algorithmic-toolbox)
