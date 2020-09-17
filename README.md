@@ -179,6 +179,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
    [:octocat:](https://github.com/anishLearnsToCode/applied-cryptography)
    - [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory) 
    [:octocat:](https://github.com/anishLearnsToCode/cryptography-and-information-theory)
+   [🎓](http://coursera.org/verify/XPFM28CP9KHX)
    - [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto)
    [:octocat:](https://github.com/anishLearnsToCode/symmetric-cryptography)
    [🎓](http://coursera.org/verify/KPJPY9LZAFBP)
