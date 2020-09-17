@@ -195,12 +195,22 @@ during university and also on other platforms such as Coursera, Udemy etc.
 - French A2.1 Certification [🎓](https://drive.google.com/file/d/1OlO6p2n6OdIgy4WO6_mn2B70r5sC4gwa/view)
 
 ## Trinity College London
-- Plectrum Guitar Grade 1 (Distinction)
-- Plectrum Guitar Grade 2 (Distinction)
-- Plectrum Guitar Grade 3 (Merit)
-- Plectrum Guitar Grade 4 (Distinction) 
+<details>
+    <summary><b>Plectrum Guitar</b></summary>
+    <ul>
+        <li>Plectrum Guitar Grade 1 (Distinction)</li>
+        <li>Plectrum Guitar Grade 2 (Distinction)</li>
+        <li>Plectrum Guitar Grade 3 (Merit)</li>
+        <li>Plectrum Guitar Grade 4 (Distinction)</li>
+    </ul>
+</details>
 
 ## Coding Ninjas
-- Alchemy: Web Development with Ruby on Rails
-- Eminence: Competitive Programming
-- Nucleus: Java with Data Structures
+<details>
+    <summary><b>Courses</b></summary>
+    <ul>
+        <li>Alchemy: Web Development with Ruby on Rails</li>
+        <li>Eminence: Competitive Programming</li>
+        <li>Nucleus: Java with Data Structures</li>
+    </ul>
+</details>
