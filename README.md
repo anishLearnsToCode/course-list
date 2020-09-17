@@ -173,6 +173,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
     [🎓](http://coursera.org/verify/KPJPY9LZAFBP)
     - [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto)
     [:octocat:](https://github.com/anishLearnsToCode/asymmetric-cryptography-key-management)
+    [🎓](http://coursera.org/verify/KLZSC7H2JH72)
     
  - [Applied Cryptography ~ University of Colorado](https://www.coursera.org/specializations/applied-crypto)
    [:octocat:](https://github.com/anishLearnsToCode/applied-cryptography)
@@ -183,6 +184,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
    [🎓](http://coursera.org/verify/KPJPY9LZAFBP)
    - [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto)
    [:octocat:](https://github.com/anishLearnsToCode/asymmetric-cryptography-key-management)
+   [🎓](http://coursera.org/verify/KLZSC7H2JH72)
    - [Cryptographic Hash and Integrity Protection](https://www.coursera.org/learn/cryptographic-hash-integrity-protection)
     
 - [Data Structures and Algorithms ~ University of California San Diego](https://www.coursera.org/specializations/data-structures-algorithms) [:octocat:](https://github.com/anishLearnsToCode/data-structures-algorithms)
