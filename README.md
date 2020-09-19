@@ -132,9 +132,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
 ### Courses
 - [Version Control With Git](https://www.coursera.org/learn/version-control-with-git/)  [🎓](https://www.coursera.org/account/accomplishments/verify/UPCHWGAGX66D)
 - [Competitive Programmer's Core Skills](https://www.coursera.org/learn/competitive-programming-core-skills/) [🎓](https://www.coursera.org/account/accomplishments/verify/WPS6KUZMT6YL)
-- [Mindshift: Break Through Obstacles to Learning](https://www.coursera.org/learn/mindshift/) [🎓](http://coursera.org/verify/X8K5SWR3J3KL)
 - [How To Write and Publish a Scientific Paper](https://www.coursera.org/learn/how-to-write-a-scientific-paper/) [🎓](https://www.coursera.org/account/accomplishments/verify/V6NGNQ5ZYQL7)
-- [Healing With the Arts](https://www.coursera.org/learn/healing-with-the-arts) [🎓](https://www.coursera.org/account/accomplishments/verify/A2YD424R3JNX)
 - [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills) [🎓](https://www.coursera.org/account/accomplishments/verify/QVKVPWWLEZU3)
 - [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) [🎓](http://coursera.org/verify/NQMRJLG6VTRY)
 - [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1/) [🎓](http://coursera.org/verify/CTQZVZZZKT5W)
