@@ -185,6 +185,8 @@ during university and also on other platforms such as Coursera, Udemy etc.
    [:octocat:](https://github.com/anishLearnsToCode/asymmetric-cryptography-key-management)
    [🎓](http://coursera.org/verify/KLZSC7H2JH72)
    - [Cryptographic Hash and Integrity Protection](https://www.coursera.org/learn/cryptographic-hash-integrity-protection)
+   [:octocat:](https://github.com/anishLearnsToCode/cryptographic-hash-integrity-protection)
+   [🎓](http://coursera.org/verify/XPG8L6K9URV9)
     
 - [Data Structures and Algorithms ~ University of California San Diego](https://www.coursera.org/specializations/data-structures-algorithms) [:octocat:](https://github.com/anishLearnsToCode/data-structures-algorithms)
     - [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) [🎓](http://coursera.org/verify/UWWDZKHQA86D) [:octocat:](https://github.com/anishLearnsToCode/algorithmic-toolbox)
