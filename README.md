@@ -117,6 +117,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
             <li><a href="https://github.com/anishLearnsToCode/lemmatization">Lemmatization</a> </li>
             <li><a href="https://github.com/anishLearnsToCode/bow-representation">Bag of Words Representation</a> </li>
             <li><a href="https://github.com/anishLearnsToCode/word-embeddings">Continuous Bag of Words (CBOW) Model</a> </li>
+            <li><a href="https://github.com/anishLearnsToCode/word-sense-disambiguation">Word Sense Disambiguation (WSD)</a> </li>
         </ol>
     </ul>
 </details>
