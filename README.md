@@ -144,7 +144,9 @@ during university and also on other platforms such as Coursera, Udemy etc.
 
 ### Specializations
 - [Deep Learning ~ deeplearning.ai](https://www.coursera.org/specializations/deep-learning) [:octocat:](https://github.com/anishLearnsToCode/deep-learning-ai)
-    - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) [:octocat:](https://github.com/anishLearnsToCode/neural-networks-deep-learning)
+    - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) 
+      [:octocat:](https://github.com/anishLearnsToCode/neural-networks-deep-learning)
+      [🎓](http://coursera.org/verify/2QP8D8FZ28B7)
     - [Improving Deep Neural Networks: Hyperparameterization Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning) 
     - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) 
     - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
