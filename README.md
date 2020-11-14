@@ -98,6 +98,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
         <li>Graph Theory (MC-405)</li>
         <ol>
             <li><a href="https://github.com/anishLearnsToCode/graph-theory-lab">Graph Theory Lab</a> </li>
+            <li><a href="https://github.com/anishLearnsToCode/image2sketch">Image-2-Sketch 🖼✏</a> </li>
         </ol>
         <li>Cryptography & Network Security (MC-407)</li>
         <ol>
