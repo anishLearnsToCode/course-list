@@ -105,6 +105,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
             <li><a href="https://github.com/anishLearnsToCode/intro-to-applied-cryptography">Introduction to Applied Cryptography Specialization @Coursera</a> </li>
             <li><a href="https://github.com/anishLearnsToCode/cryptography">Interactive Guide to Cryptography</a> </li>
             <li><a href="https://github.com/anishLearnsToCode/DES">Data Encryption Standard (DES)</a> </li>
+            <li><a href="https://github.com/anishLearnsToCode/lsb-image-steganography">Least Significant Bit (LSB) Image Steganography</a> </li>
         </ol>
         <li>Mathematical Modelling & Simulation (MC-409)</li>
         <ol>
