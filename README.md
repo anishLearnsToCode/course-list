@@ -156,6 +156,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
       [:octocat:](https://github.com/anishLearnsToCode/improving-deep-neural-networks)
       [🎓](https://coursera.org/verify/WLLHPCZSRZ2Y)
     - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) 
+      [:octocat:](https://github.com/anishLearnsToCode/structuring-ml-projects)
     - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
     - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
    
