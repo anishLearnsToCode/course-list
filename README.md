@@ -128,7 +128,9 @@ during university and also on other platforms such as Coursera, Udemy etc.
 <details>
     <summary><b>Semester - VIII</b></summary>
     <ul>
-        <li>To be completed in May 2021</li>
+        <li>Partial Differential Equations (MC-406)</li>
+        <li>Fuzzy Set & Fuzzy Logic (MC-432)</li>
+        <li>Pattern Recognition (EC-416)</li>
     </ul>
 </details>
 
