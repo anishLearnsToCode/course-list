@@ -162,6 +162,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
       [🎓](https://coursera.org/verify/SX8LNSPRY6NR)
     - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning) 
       [:octocat:](https://github.com/anishLearnsToCode/cnn-deeplearning-ai)
+      [🎓](https://coursera.org/verify/KN92M6VXUXYA)
     - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
    
 - [Natural Language Processing ~ deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing) [:octocat:](https://github.com/anishLearnsToCode/nlp-deeplearning-ai)
