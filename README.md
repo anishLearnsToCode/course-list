@@ -131,6 +131,9 @@ during university and also on other platforms such as Coursera, Udemy etc.
         <li>Partial Differential Equations (MC-406)</li>
         <li>Fuzzy Set & Fuzzy Logic (MC-432)</li>
         <li>Pattern Recognition (EC-416)</li>
+        <ol>
+            <li><a href="https://github.com/anishLearnsToCode/pattern-recognition-lab">Pattern Recognition Lab Experiments</a> </li>
+        </ol>
     </ul>
 </details>
 
