@@ -168,6 +168,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
       [🎓](https://coursera.org/verify/KN92M6VXUXYA)
     - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
       [:octocat:](https://github.com/anishLearnsToCode/sequence-models)
+      [🎓](https://coursera.org/verify/PA9BDUHSNER9)
    
 - [Natural Language Processing ~ deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing) [:octocat:](https://github.com/anishLearnsToCode/nlp-deeplearning-ai)
     - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) [:octocat:](https://github.com/anishLearnsToCode/nlp-classification-vector-spaces) [🎓](http://coursera.org/verify/LGBF7J8S99RG)
