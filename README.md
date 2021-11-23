@@ -229,7 +229,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
 - [Web Design for Web Developers](https://www.udemy.com/course/web-design-secrets/) [🎓](https://www.udemy.com/certificate/UC-8KTW4FNX/)
 
 ## CERN
-- French A2.1 Certification [🎓](https://drive.google.com/file/d/1OlO6p2n6OdIgy4WO6_mn2B70r5sC4gwa/view)
+- French A2.1 Certification [🎓](https://drive.google.com/file/d/1A00vuGZJ4CQsYM005ZqVlx5LehE6AwRw/view?usp=sharing)
 
 ## Trinity College London
 <details>
