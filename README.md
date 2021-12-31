@@ -227,6 +227,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
 - [3-Minute French Course 1](https://www.udemy.com/course/3-minute-french-full-course-1/) [🎓](https://www.udemy.com/certificate/UC-1KECT4EP/)
 - [3-Minute French Course 2](https://www.udemy.com/course/3-minute-french-course-2/) [🎓](https://www.udemy.com/certificate/UC-QA36OCQA/)
 - [Web Design for Web Developers](https://www.udemy.com/course/web-design-secrets/) [🎓](https://www.udemy.com/certificate/UC-8KTW4FNX/)
+- [The Complete PL/SQL Bootcamp : "Beginner to Advanced PL/SQL"](https://www.udemy.com/course/plsql-beginner-to-advanced-become-a-perfect-plsql-developer) [🎓](https://www.udemy.com/certificate/UC-cdd4269b-3e47-4a36-a276-3fe321bc2141)
 
 ## CERN
 - French A2.1 Certification [🎓](https://drive.google.com/file/d/1A00vuGZJ4CQsYM005ZqVlx5LehE6AwRw/view?usp=sharing)
