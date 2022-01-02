@@ -231,6 +231,7 @@ during university and also on other platforms such as Coursera, Udemy etc.
 
 ## CERN
 - French A2.1 Certification [🎓](https://drive.google.com/file/d/1A00vuGZJ4CQsYM005ZqVlx5LehE6AwRw/view?usp=sharing)
+- French A2.2 Certification [🎓](https://drive.google.com/file/d/1YyxEGtmjfa_CDbvPS4-p9FeRGsiwnRYb/view?usp=sharing)
 
 ## Trinity College London
 <details>
