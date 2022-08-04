@@ -232,8 +232,9 @@ during university and also on other platforms such as Coursera, Udemy etc.
 - [Clean Code](https://www.udemy.com/course/writing-clean-code) [🎓](https://www.udemy.com/certificate/UC-6fb021d4-5233-46ac-a9bb-34aa7db0aafa/)
 
 ## CERN
-- French A2.1 Certification [🎓](https://drive.google.com/file/d/1A00vuGZJ4CQsYM005ZqVlx5LehE6AwRw/view?usp=sharing)
-- French A2.2 Certification [🎓](https://drive.google.com/file/d/1YyxEGtmjfa_CDbvPS4-p9FeRGsiwnRYb/view?usp=sharing)
+- French A2.1 Certification [🎓](cern/french-a2.1-certificate-anish-sachdeva.pdf)
+- French A2.2 Certification [🎓](cern/french-a2.2-certificate-anish-sachdeva.pdf)
+- French B1.1 Certification [🎓](cern/french-b1.1-certificate-anish-sachdeva.pdf)
 
 ## Trinity College London
 <details>
